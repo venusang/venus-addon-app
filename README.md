@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Venus-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# venus-addon-app
+This is just a sandbox app in which I'm trying to get various ember-cli addons to work.  So far, this includes:  draggable, ember-cli-autocomplete, and ember-dragula (doesn't work right now - grrr)
+>>>>>>> ab6530acc04145815e32d55096a5848fef8f523d
